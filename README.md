@@ -16,26 +16,32 @@ Available at: https://www.researchgate.net/publication/408276947
 
 Citation
 Please cite this work appropriately when referencing concepts or frameworks developed within the Execution Economics Canon.
-Kekoh, N.N. (2026). The Execution Economics Canon: Understanding Why Projects Succeed, Fail, or Stall. VitroScript Working Paper Series, VS-WP-2026-001, Foundational Paper No. 1 (Version 1.0). Yaoundé, Cameroon: VitroScript. Available at: https://www.researchgate.net/publication/408276947
+Kekoh, N.N. (2026). The Execution Economics Canon: Understanding Why Projects Succeed, Fail, or Stall. VitroScript Working Paper Series, VS-WP-2026-001, Foundational Paper No. 1 (Version 1.0). Yaoundé, Cameroon: VitroScript. 
+Available at: https://www.researchgate.net/publication/408276947
+
 Working papers may be updated as the research programme evolves. Readers are encouraged to check ResearchGate for the most current version.
 
 
 Road Map
+
 Current Publications
 The Execution Economics Canon: Understanding Why Projects Succeed, Fail, or Stall
 VS-WP-2026-001 | Foundational Paper No. 1 | Version 1.0 | July 2026
 In Development
 
 
-Foundational Paper No. 2: Execution Architecture in Depth
+Foundational Paper No. 2: 
+Execution Architecture in Depth
 An extended examination of the No-Objection Paradox, the Ownership Illusion, and the Coordination Tax, with case material and preliminary measurement approaches.
 
 
-Foundational Paper No. 3: Value Architecture in Depth
+Foundational Paper No. 3: 
+Value Architecture in Depth
 An extended examination of the Export Illusion, the Dependency Premium, and the Offtake Gap across agro-industrial and commodity export systems.
 
 
-Policy Brief Series: Execution Economics in Practice
+Policy Brief Series: 
+Execution Economics in Practice
 Concise evidence-based commentary applying Canon doctrines to current institutional and development challenges. Published regularly.
 
 
@@ -44,7 +50,12 @@ A structured diagnostic instrument for assessing the presence and severity of Ca
 
 
 Contact
+
 Email: nelsonkekoh@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/nchindanelsonkekoh
+
 ResearchGate: https://www.researchgate.net/profile/Nchinda-Kekoh
-Organisation: VitroScript | Yaoundé, Cameroon
+
+Organisation: 
+VitroScript | Yaoundé, Cameroon
