@@ -7,16 +7,22 @@ The Execution Economics Canon is an independent research programme developed und
 Foundational Paper No. 1
 VS-WP-2026-001
 Version 1.0
-First published: July 2026
+
+First published: June 2026
+
 Author: Dr. Nchinda Nelson Kekoh, PhD
 Institution: VitroScript
+
 Location: Yaoundé, Cameroon
+
 Available at: https://www.researchgate.net/publication/408276947
 
 
 Citation
 Please cite this work appropriately when referencing concepts or frameworks developed within the Execution Economics Canon.
+
 Kekoh, N.N. (2026). The Execution Economics Canon: Understanding Why Projects Succeed, Fail, or Stall. VitroScript Working Paper Series, VS-WP-2026-001, Foundational Paper No. 1 (Version 1.0). Yaoundé, Cameroon: VitroScript. 
+
 Available at: https://www.researchgate.net/publication/408276947
 
 Working papers may be updated as the research programme evolves. Readers are encouraged to check ResearchGate for the most current version.
