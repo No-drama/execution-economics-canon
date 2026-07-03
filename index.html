@@ -1,70 +1,141 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Execution Economics Canon</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 60px;
-            line-height: 1.6;
-            color: #1a1a1a;
-            max-width: 900px;
-        }
-        h1 {
-            font-size: 40px;
-            margin-bottom: 5px;
-        }
-        h2 {
-            margin-top: 40px;
-        }
-        .subtitle {
-            font-size: 18px;
-            color: #555;
-        }
-        .box {
-            border-left: 4px solid #1f4e79;
-            padding-left: 15px;
-            margin: 20px 0;
-        }
-    </style>
+<meta charset="UTF-8">
+<title>Execution Economics Canon</title>
+
+<style>
+:root {
+    --navy:#0F2747;
+    --gold:#C9A227;
+    --text:#1a1a1a;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    line-height: 1.6;
+    color: var(--text);
+    background: #ffffff;
+}
+
+/* NAVIGATION */
+nav {
+    text-align:center;
+    padding:15px;
+    border-bottom:1px solid #eee;
+}
+
+nav a {
+    margin: 0 12px;
+    text-decoration: none;
+    color: var(--navy);
+    font-weight: bold;
+}
+
+/* HERO SECTION */
+.hero {
+    background: var(--navy);
+    color: white;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 42px;
+    margin: 0;
+}
+
+.hero p {
+    color: #ddd;
+    margin-top: 10px;
+}
+
+/* LAYOUT */
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+.box {
+    border-left: 4px solid var(--gold);
+    padding-left: 15px;
+    margin: 20px 0;
+}
+
+.card {
+    border: 1px solid #eee;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.button {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background: var(--gold);
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+}
+</style>
 </head>
 
 <body>
 
-<h1>Execution Economics Canon</h1>
-<div class="subtitle">VitroScript Working Paper Series</div>
+<!-- NAVIGATION -->
+<nav>
+    <a href="index.html">Home</a>
+    <a href="publications.html">Publications</a>
+    <a href="canon.html">Canon</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<!-- HERO -->
+<div class="hero">
+    <h1>Execution Economics Canon</h1>
+    <p>VitroScript Working Paper Series</p>
+    <p>A research programme examining why systems fail to convert intent into outcomes</p>
+</div>
+
+<!-- CONTENT -->
+<div class="container">
 
 <div class="box">
 A research framework on execution failure, institutional inefficiency, and funding-to-implementation gaps in emerging economies.
 </div>
 
-<h2>Foundational Paper</h2>
-<p>
-<a href="papers/execution-economics-foundational-paper-1.pdf">Download: Foundational Paper No. 1</a>
-</p>
+<div class="card">
+<h2>Foundational Paper No. 1</h2>
+<p>Understanding why projects succeed, fail, or stall in institutional systems.</p>
+<a class="button" href="papers/execution-economics-foundational-paper-1.pdf">
+Download Paper
+</a>
+</div>
 
+<div class="card">
 <h2>Canon Architecture</h2>
 <ul>
-    <li>Book I: Execution Failure Architecture</li>
-    <li>Book II: Institutional Friction Models</li>
-    <li>Book III: Funding-to-Execution Gap</li>
-    <li>Books IV–X: Under Development</li>
+    <li>Execution Architecture — failure in delivery systems</li>
+    <li>Value Architecture — failure in value retention systems</li>
+    <li>Performance Architecture — failure in institutional capability systems</li>
 </ul>
+</div>
 
-<h2>Purpose</h2>
-<p>
-The Canon examines why development capital, institutional planning, and policy design repeatedly fail to translate into execution outcomes in emerging economies.
-</p>
-
+<div class="card">
 <h2>Engagement</h2>
 <ul>
     <li>Research collaboration</li>
     <li>Institutional advisory</li>
-    <li>Consulting engagements</li>
+    <li>Policy and implementation consulting</li>
 </ul>
+</div>
 
-<p><b>Contact:</b> Add your email or WhatsApp here</p>
+</div>
 
 </body>
 </html>
