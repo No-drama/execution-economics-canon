@@ -7,33 +7,97 @@
 <link rel="stylesheet" href="style.css">
 
 <style>
+body {
+    font-family: Arial, sans-serif;
+    background: #f7f8fa;
+}
+
 nav {
     text-align: center;
-    padding: 15px;
-    border-bottom: 1px solid #eee;
+    padding: 18px;
+    background: white;
+    border-bottom: 1px solid #e5e5e5;
 }
 
 nav a {
-    margin: 0 12px;
+    margin: 0 14px;
     text-decoration: none;
     color: #0F2747;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .container {
-    max-width: 900px;
+    max-width: 1000px;
     margin: auto;
     padding: 40px 20px;
 }
 
 h1 {
     color: #0F2747;
+    margin-bottom: 10px;
 }
 
-.paper {
-    border-left: 4px solid #C9A227;
-    padding-left: 15px;
-    margin: 25px 0;
+.subtitle {
+    color: #555;
+    margin-bottom: 30px;
+}
+
+/* PAPER CARDS */
+.paper-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+.paper-card {
+    background: white;
+    border-left: 5px solid #C9A227;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    border-radius: 6px;
+}
+
+.paper-code {
+    font-size: 13px;
+    color: #777;
+    margin-bottom: 6px;
+}
+
+.paper-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #0F2747;
+    margin-bottom: 8px;
+}
+
+.paper-desc {
+    color: #444;
+    margin-bottom: 12px;
+    line-height: 1.5;
+}
+
+.paper-actions a {
+    display: inline-block;
+    padding: 8px 14px;
+    background: #0F2747;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.paper-actions a:hover {
+    background: #193b66;
+}
+
+.badge {
+    display: inline-block;
+    background: #f0e6c2;
+    color: #7a6200;
+    padding: 4px 8px;
+    font-size: 12px;
+    border-radius: 4px;
+    margin-bottom: 10px;
 }
 </style>
 
@@ -41,7 +105,6 @@ h1 {
 
 <body>
 
-<!-- NAV -->
 <nav>
     <a href="index.html">Home</a>
     <a href="publications.html">Publications</a>
@@ -52,21 +115,41 @@ h1 {
 
 <div class="container">
 
-<h1>Publications</h1>
+<h1>Publication Engine</h1>
+<div class="subtitle">
+Execution Economics Canon — Institutional Working Paper Series
+</div>
 
-<div class="paper">
-    <h2>Foundational Paper No. 1</h2>
-    <p><b>VS-WP-2026-001</b></p>
+<div class="paper-grid">
 
-    <p>
-    The Execution Economics Canon: Understanding Why Projects Succeed, Fail, or Stall in Institutional Systems.
-    </p>
+    <!-- PAPER 1 -->
+    <div class="paper-card">
+        <div class="badge">Foundational Paper</div>
+        <div class="paper-code">VS-WP-2026-001</div>
+        <div class="paper-title">The Execution Economics Canon</div>
+        <div class="paper-desc">
+            A systemic analysis of why development capital, policy design, and institutional planning fail to convert into measurable execution outcomes in emerging economies.
+        </div>
+        <div class="paper-actions">
+            <a href="papers/execution-economics-foundational-paper-1.pdf" target="_blank">
+                View / Download PDF
+            </a>
+        </div>
+    </div>
 
-    <p>
-        <a href="papers/execution-economics-foundational-paper-1.pdf">
-        Download Full Paper (PDF)
-        </a>
-    </p>
+    <!-- FUTURE PAPER SLOT -->
+    <div class="paper-card">
+        <div class="badge">Upcoming Issue</div>
+        <div class="paper-code">VS-WP-2026-002</div>
+        <div class="paper-title">Execution Architecture in Depth</div>
+        <div class="paper-desc">
+            Expansion of institutional failure patterns and coordination breakdown mechanisms across public systems.
+        </div>
+        <div class="paper-actions">
+            <a href="#">In Development</a>
+        </div>
+    </div>
+
 </div>
 
 </div>
