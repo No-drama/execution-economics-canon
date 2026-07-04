@@ -3,7 +3,6 @@
 
 > *A research programme examining why systems fail to convert intent, capital, and policy into measurable outcomes.*
 
----
 
 ## 📌 Institutional Summary  
 
@@ -11,7 +10,6 @@ The **Execution Economics Canon** is an independent research programme developed
 
 It studies **execution failure as a systemic institutional problem rather than a resource constraint**, focusing on how decisions, investments, and policy intentions fail to translate into measurable outcomes.
 
----
 
 ## 🧠 Core Framework  
 
@@ -24,7 +22,6 @@ How economies fail to retain and transform value.
 ### 🔷 Performance Architecture  
 How institutions fail to become investable and delivery-capable.
 
----
 
 ## 📚 Publications  
 
@@ -37,7 +34,6 @@ https://nchindnelsonkekoh.github.io/execution-economics-canon/papers/execution-e
 🔗 ResearchGate:  
 https://www.researchgate.net/publication/408276947  
 
----
 
 ## 🧭 Canon Map  
 
@@ -56,7 +52,6 @@ https://www.researchgate.net/publication/408276947
 - Capacity Before Capital  
 - The Execution Premium  
 
----
 
 ## 🏛 About VitroScript  
 
@@ -68,7 +63,6 @@ It focuses on:
 - Development effectiveness  
 - Implementation architecture in emerging economies  
 
----
 
 ## 👤 Author  
 
@@ -76,7 +70,6 @@ It focuses on:
 Founder, VitroScript  
 Lead Researcher, Execution Economics Canon  
 
----
 
 ## 📡 Contact  
 
@@ -84,6 +77,5 @@ Lead Researcher, Execution Economics Canon
 - LinkedIn: https://www.linkedin.com/in/nchindanelsonkekoh  
 - GitHub: https://github.com/NchindNelsonKekoh  
 
----
 
 © 2026 VitroScript. All rights reserved.
