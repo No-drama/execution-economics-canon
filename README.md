@@ -3,7 +3,7 @@
 
 > A research programme examining why macro-institutional systems fail to convert intent, capital, and policy into measurable development and industrial outcomes.
 
----
+
 
 ## 📌 Institutional Summary  
 
@@ -20,13 +20,13 @@ Execution Economics shifts analysis toward the institutional mechanisms governin
 - Capability stabilization  
 - Value capture across development systems  
 
----
+
 
 ## 🔁 System Flow Model  
 
 **Intent → Resources → System Layer Engine → Measurable Outcomes**
 
----
+
 
 ## 🧠 The Three Core Architectures  
 
@@ -39,7 +39,7 @@ Focus:
 - Bureaucratic friction  
 - Execution delay mechanisms  
 
----
+
 
 ### 2. Value Architecture  
 Explains how economies fail to capture, refine, and retain the value they produce.
@@ -50,7 +50,7 @@ Focus:
 - Dependency structures  
 - Export-only value extraction  
 
----
+
 
 ### 3. Performance Architecture  
 Explains how institutions fail to stabilize capability into investable and delivery-ready systems.
@@ -61,7 +61,7 @@ Focus:
 - Capital absorption capacity  
 - Operational credibility  
 
----
+
 
 ## 📊 The 9 Canon Doctrines  
 
@@ -78,9 +78,9 @@ Focus:
 ### III. Performance Architecture
 - **The Feasibility Gap** — Paper viability ≠ investable reality.  
 - **Capacity Before Capital** — Capital follows capability, not vice versa.  
-- **The Execution Premium** — Delivery history reduces cost of capital.  
+- **The Execution Premium** — Delivery history reduces the cost of capital.  
 
----
+
 
 ## 📚 Publications & Active Research  
 
@@ -100,7 +100,7 @@ https://nchindnelsonkekoh.github.io/execution-economics-canon/papers/execution-e
 - 🌐 ResearchGate Entry:  
 https://www.researchgate.net/publication/408276947  
 
----
+
 
 ## 🏛 About VitroScript  
 
@@ -114,7 +114,7 @@ Focus areas:
 - Development effectiveness  
 - Industrial transformation systems  
 
----
+
 
 ## 👤 Author  
 
@@ -124,7 +124,7 @@ Institutional Systems Architect & Lead Execution Economics Researcher
 - Founder, VitroScript  
 - Chief Operations Officer, NALDCCAM S.A.  
 
----
+
 
 ## 📡 Contact & Professional Network  
 
@@ -132,4 +132,4 @@ Institutional Systems Architect & Lead Execution Economics Researcher
 - LinkedIn: https://www.linkedin.com/in/nchindanelsonkekoh  
 - GitHub: https://github.com/NchindNelsonKekoh  
 
----
+
