@@ -5,7 +5,7 @@
 
 
 
-## 📌 Institutional Summary  
+##  Institutional Summary  
 
 The Execution Economics Canon is an independent, practitioner-led research programme developed under the VitroScript Working Paper Series by **Dr. Nchinda Nelson Kekoh, PhD**.
 
@@ -22,13 +22,13 @@ Execution Economics shifts analysis toward the institutional mechanisms governin
 
 
 
-## 🔁 System Flow Model  
+##  System Flow Model  
 
 **Intent → Resources → System Layer Engine → Measurable Outcomes**
 
 
 
-## 🧠 The Three Core Architectures  
+## The Three Core Architectures  
 
 ### 1. Execution Architecture  
 Explains how institutions fail to convert structural decisions into operational outcomes.
@@ -63,7 +63,7 @@ Focus:
 
 
 
-## 📊 The 9 Canon Doctrines  
+##  The 9 Canon Doctrines  
 
 ### I. Execution Architecture
 - **The No-Objection Paradox** — Participation expands while decision authority contracts.  
@@ -82,7 +82,7 @@ Focus:
 
 
 
-## 📚 Publications & Active Research  
+##  Publications & Active Research  
 
 ### Foundational Paper No. 1 (VS-WP-2026-001)
 
@@ -94,15 +94,15 @@ Focus:
 **Date:** July 2026  
 
 ### Access the Publication
-- 📄 Full Paper (PDF):  
+-  Full Paper (PDF):  
 https://nchindnelsonkekoh.github.io/execution-economics-canon/papers/execution-economics-foundational-paper-1.pdf  
 
-- 🌐 ResearchGate Entry:  
+-  ResearchGate Entry:  
 https://www.researchgate.net/publication/408276947  
 
 
 
-## 🏛 About VitroScript  
+##  About VitroScript  
 
 VitroScript is a strategic research and institutional advisory practice focused on execution systems, institutional design, and development effectiveness in emerging economies.
 
@@ -126,7 +126,7 @@ Institutional Systems Architect & Lead Execution Economics Researcher
 
 
 
-## 📡 Contact & Professional Network  
+##  Contact & Professional Network  
 
 - Email: nelsonkekoh@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/nchindanelsonkekoh  
