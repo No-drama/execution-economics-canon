@@ -25,9 +25,24 @@
 nav {
     background: var(--primary);
     padding: 14px 0;
+    text-align: center;
     position: sticky;
     top: 0;
     z-index: 1000;
+}
+
+nav a {
+    color: white;
+    margin: 0 18px;
+    text-decoration: none;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+nav a:hover {
+    color: var(--accent);
 }
 
 /* Menu container */
