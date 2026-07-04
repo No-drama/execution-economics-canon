@@ -3,7 +3,14 @@
    UNIFIED INSTITUTIONAL STYLE SYSTEM
    VitroScript Working Paper Series
 ================================ */
-
+:root {
+    --primary: #0b1f3a;
+    --accent: #c9a227;
+    --bg: #f5f7fb;
+    --card: #ffffff;
+    --text: #1a1a1a;
+    --muted: #6b7280;
+}
 /* ROOT VARIABLES */
 :root {
     --primary: #0b1f3a;
